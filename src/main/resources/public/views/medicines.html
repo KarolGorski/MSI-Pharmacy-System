@@ -1,0 +1,18 @@
+<div class="container pad-top">
+  <a ui-sref="newmedicine" class="btn-primary btn-lg nodecoration">Add New medicine</a>
+  <table class="table medicinetable">
+      <tr>
+          <td><h3>All medicines</h3></td>
+          <td></td>
+      </tr>
+      <tr ng-repeat="medicine in medicines">
+          <td>{{medicine.name}}</td>
+          <td>{{medicine.description}}</td>
+          <td>{{medicine.yearDiscovered}}</td>
+          <td>
+              <a class="btn btn-primary" ui-sref="viewmedicine({id:medicine.id})">View</a>
+              <a class="btn btn-danger"  ng-click="deletemedicine(medicine)">Delete</a>
+          </td>
+      </tr>
+  </table>
+</div>
