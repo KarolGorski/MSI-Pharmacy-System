@@ -1,6 +1,13 @@
 package com.boot.model;
 
+import javax.persistence.*;
+
+
+@Entity
+@Table(name = "medicines")
 public class Medicine {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	Long id;
 	String name;
 	String description;
@@ -63,21 +70,13 @@ public class Medicine {
 		this.depth = depth;
 	}
 
-	public Double getLatitude() {
-		return latitude;
-	}
+	public Double getLatitude() {return latitude;}
 
-	public void setLatitude(Double latitude) {
-		this.latitude = latitude;
-	}
+	public void setLatitude(Double latitude) {this.latitude = latitude;}
 
-	public Double getLongitude() {
-		return longitude;
-	}
+	public Double getLongitude() {return longitude;}
 
-	public void setLongitude(Double longitude) {
-		this.longitude = longitude;
-	}
+	public void setLongitude(Double longitude) {this.longitude = longitude;}
 
 	public Integer getYearDiscovered() {
 		return yearDiscovered;
