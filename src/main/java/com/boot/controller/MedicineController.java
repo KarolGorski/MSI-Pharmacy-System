@@ -46,7 +46,7 @@ public class MedicineController {
         return medicineRepository.saveAndFlush(existingMedicine);
     }
 
-    @RequestMapping(value = "medicines", method = RequestMethod.DELETE)
+    @RequestMapping(value = "medicines/{id}", method = RequestMethod.DELETE)
     public Med delete(@PathVariable Long id)
     {
         Med existingMedicine = medicineRepository.findOne(id);
