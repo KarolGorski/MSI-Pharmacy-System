@@ -4,6 +4,8 @@ import com.boot.model.Med;
 import com.boot.repository.MedicineRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Sort;
+import org.springframework.data.jpa.domain.Specification;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -53,4 +55,10 @@ public class MedicineController {
         medicineRepository.delete(existingMedicine);
         return existingMedicine;
     }
+
+    @RequestMapping(value = "search", method = RequestMethod.GET)
+    public List<Med> search(@RequestParam String query) {
+        return medicineRepository.findByNameLike(query);
+    }
+
 }

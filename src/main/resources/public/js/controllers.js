@@ -5,7 +5,7 @@ angular.module('app.controllers', []).controller('medicineListController', funct
     if (popupService.showPopup('Really delete this?')) {
       medicine.$delete(function() {
         $scope.medicines = medicine.query();
-        $state.go('medicines');
+        $state.refresh('medicines');
       });
     }
   };

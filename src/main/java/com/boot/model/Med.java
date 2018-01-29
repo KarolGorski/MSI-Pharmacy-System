@@ -12,23 +12,26 @@ import java.math.BigDecimal;
 @Table(name = "Medicines")
 public class Med {
 
+
+  //  @GeneratedValue
     @Id
-    @GeneratedValue
     private Long _id;
     private String name;
     private String description;
     private String composition;
     private BigDecimal price;
     private String imageUrl;
+    private Integer quantity;
 
     public Med(){}
 
-    public Med(String name, String description, String composition, BigDecimal price, String imageUrl) {
+    public Med(String name, String description, String composition, BigDecimal price, String imageUrl, Integer quantity) {
         this.name = name;
         this.description = description;
         this.composition = composition;
         this.price = price;
         this.imageUrl = imageUrl;
+        this.quantity = quantity;
     }
 
 
@@ -78,5 +81,13 @@ public class Med {
 
     public void setImageUrl(String imageUrl) {
         this.imageUrl = imageUrl;
+    }
+
+    public Integer getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(Integer quantity) {
+        this.quantity = quantity;
     }
 }

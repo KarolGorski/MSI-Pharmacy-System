@@ -6,9 +6,9 @@
           <td></td>
       </tr>
       <tr ng-repeat="medicine in medicines">
+          <td>{{medicine.id}}</td>
           <td>{{medicine.name}}</td>
           <td>{{medicine.description}}</td>
-          <td>{{medicine.yearDiscovered}}</td>
           <td>
               <a class="btn btn-primary" ui-sref="viewmedicine({id:medicine.id})">View</a>
               <a class="btn btn-danger"  ng-click="deletemedicine(medicine)">Delete</a>
