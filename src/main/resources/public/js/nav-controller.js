@@ -15,8 +15,16 @@ angular.module('navController', [])
 				url: '#/'
 			},
 			{
-				name: 'medicines',
+				name: 'Medicines',
 				url: '#/medicines'
+			},
+			{
+				name: 'Stock',
+				url: '#/stock'
+			},
+			{
+				name: 'Recipes',
+				url: '#/recipes'
 			}
 		]
 	});

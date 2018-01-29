@@ -1,0 +1,22 @@
+<div class="container pad-top">
+  <a ui-sref="newstockin" class="btn-primary btn-lg nodecoration">Add New stock Input</a>
+  <table class="table stockintable">
+      <tr><h1>All Stock Inputs</h1></tr>
+      <tr>
+          <td><h2>ID</h2></td>
+          <td><h2>From</h2></td>
+          <td><h2>Date</h2></td>
+          <td><h2>Price</h2></td>
+      </tr>
+      <tr ng-repeat="medicine in medicines">
+          <td>{{stockin.id}}</td>
+          <td>{{stockin.fromwhere}}</td>
+          <td>{{stockin.date}}</td>
+          <td>{{stockin.price}}</td>
+          <td>
+              <a class="btn btn-primary" ui-sref="viewstockin({id:stockin.id})">View</a>
+              <a class="btn btn-danger"  ng-click="deletestockin(stockin)">Delete</a>
+          </td>
+      </tr>
+  </table>
+</div>
