@@ -13,7 +13,7 @@ import java.math.BigDecimal;
 public class Med {
 
 
-  //  @GeneratedValue
+    @GeneratedValue
     @Id
     private Long _id;
     private String name;
