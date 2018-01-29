@@ -53,4 +53,9 @@ public class MedicineController {
         medicineRepository.delete(existingMedicine);
         return existingMedicine;
     }
+
+    @RequestMapping(value = "search/{query}")
+    public List<Med> search(@PathVariable String query) {
+        return medicineRepository.findAllByName(query);
+    }
 }
