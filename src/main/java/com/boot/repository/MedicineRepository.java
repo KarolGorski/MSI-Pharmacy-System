@@ -9,5 +9,5 @@ import java.util.List;
  * Created by Karol on 2018-01-21.
  */
 public interface MedicineRepository extends JpaRepository<Med, Long> {
-    List<Med> findAllByName(String query);
+    List<Med> findByNameLike(String query);
 }

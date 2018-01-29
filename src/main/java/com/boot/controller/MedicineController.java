@@ -56,6 +56,6 @@ public class MedicineController {
 
     @RequestMapping(value = "search", method = RequestMethod.GET)
     public List<Med> search(@RequestParam String query) {
-        return medicineRepository.findAllByName(query);
+        return medicineRepository.findByNameLike(query);
     }
 }
