@@ -20,11 +20,15 @@ angular.module('navController', [])
 			},
 			{
 				name: 'Stock',
-				url: '#/stock'
+				url: '#/stockins'
 			},
 			{
 				name: 'Recipes',
 				url: '#/recipes'
-			}
+			},
+            {
+                name: 'Orders',
+                url: '#/orders'
+            }
 		]
 	});

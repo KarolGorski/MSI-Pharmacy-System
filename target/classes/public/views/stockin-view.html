@@ -1,0 +1,27 @@
+<div class="container pad-top">
+  <table class="table stockintable">
+      <tr>
+          <td><h3>Details for {{stockin.name}}</h3></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>ID</td>
+          <td>{{stockin._id}}</td>
+      </tr>
+      <tr>
+          <td>From</td>
+          <td>{{stockin.fromwhere}}</td>
+      </tr>
+      <tr>
+          <td>Date</td>
+          <td>{{stockin.date}}</td>
+      </tr>
+      <tr>
+          <td>Price</td>
+          <td>{{stockin.price}}</td>
+      </tr>
+  </table>
+  <div>
+      <a class="btn btn-primary" ui-sref="editstockin({id:stockin.id})">Edit</a>
+  </div>
+</div>

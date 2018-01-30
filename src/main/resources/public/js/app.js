@@ -61,7 +61,27 @@
 	        url:'/medicines/:id/edit',
 	        templateUrl: viewsPrefix + 'medicine-edit.html',
 	        controller:'medicineEditController'
-	    })
+	    }).state('stockins',{
+	    	url:'/stockins',
+			templateUrl: viewsPrefix +'stockins.html',
+			controller:'stockinListController'
+		}).state('viewstockin',{
+            url:'/stockins/:id/view',
+            templateUrl: viewsPrefix + 'stockin-view.html',
+            controller:'stockinViewController'
+        }).state('newstockin',{
+            url:'/stockins/new',
+            templateUrl: viewsPrefix + 'stockin-add.html',
+            controller:'stockinCreateController'
+        }).state('editstockin',{
+            url:'/stockins/:id/edit',
+            templateUrl: viewsPrefix + 'stockin-edit.html',
+            controller:'stockinEditController'
+        }).state('msearching',{
+                url:'/medicines',
+                templateUrl: viewsPrefix,
+                controller:'medicineSearching'
+            })
 	})
 	.directive('updateTitle', ['$rootScope', '$timeout',
 		function($rootScope, $timeout) {

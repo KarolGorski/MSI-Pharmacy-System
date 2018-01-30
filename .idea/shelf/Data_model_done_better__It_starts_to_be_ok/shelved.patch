@@ -1,0 +1,1083 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"9e72c3f1-daf7-4c4a-b931-66fd2e762ed8\" name=\"Default\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java\" afterPath=\"$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/boot/controller/MedicineController.class\" afterPath=\"$PROJECT_DIR$/target/classes/com/boot/controller/MedicineController.class\" />\n    </list>\n    <ignored path=\"$PROJECT_DIR$/out/\" />\n    <ignored path=\"$PROJECT_DIR$/target/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"DatabaseView\">\n    <option name=\"SHOW_INTERMEDIATE\" value=\"true\" />\n    <option name=\"GROUP_SCHEMA\" value=\"true\" />\n    <option name=\"GROUP_CONTENTS\" value=\"false\" />\n    <option name=\"SORT_POSITIONED\" value=\"false\" />\n    <option name=\"SHOW_TABLE_DETAILS\" value=\"true\" />\n    <option name=\"SHOW_EMPTY_GROUPS\" value=\"false\" />\n    <option name=\"AUTO_SCROLL_FROM_SOURCE\" value=\"false\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\n      <file leaf-file-name=\"MedicineController.java\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"646\">\n              <caret line=\"53\" column=\"32\" lean-forward=\"false\" selection-start-line=\"53\" selection-start-column=\"32\" selection-end-line=\"53\" selection-end-column=\"32\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"app.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/app.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"436\">\n              <caret line=\"61\" column=\"48\" lean-forward=\"false\" selection-start-line=\"61\" selection-start-column=\"40\" selection-end-line=\"61\" selection-end-column=\"48\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"HomeController.java\" pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"357\">\n              <caret line=\"23\" column=\"0\" lean-forward=\"true\" selection-start-line=\"23\" selection-start-column=\"0\" selection-end-line=\"23\" selection-end-column=\"0\" />\n              <folding>\n                <element signature=\"e#516#517#0\" expanded=\"true\" />\n                <element signature=\"e#546#547#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"pom.xml\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/pom.xml\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"799\">\n              <caret line=\"47\" column=\"17\" lean-forward=\"false\" selection-start-line=\"47\" selection-start-column=\"17\" selection-end-line=\"47\" selection-end-column=\"17\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"MedicineRepository.java\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/repository/MedicineRepository.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"119\">\n              <caret line=\"8\" column=\"17\" lean-forward=\"false\" selection-start-line=\"8\" selection-start-column=\"17\" selection-end-line=\"8\" selection-end-column=\"17\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"nav-controller.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/nav-controller.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"374\">\n              <caret line=\"22\" column=\"0\" lean-forward=\"true\" selection-start-line=\"22\" selection-start-column=\"0\" selection-end-line=\"22\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"services.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/services.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"0\">\n              <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"controllers.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/controllers.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"119\">\n              <caret line=\"7\" column=\"31\" lean-forward=\"false\" selection-start-line=\"7\" selection-start-column=\"31\" selection-end-line=\"7\" selection-end-column=\"31\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"App.java\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/App.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"153\">\n              <caret line=\"10\" column=\"13\" lean-forward=\"false\" selection-start-line=\"10\" selection-start-column=\"13\" selection-end-line=\"10\" selection-end-column=\"13\" />\n              <folding>\n                <element signature=\"e#259#260#0\" expanded=\"true\" />\n                <element signature=\"e#313#314#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"Med.java\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/model/Med.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"493\">\n              <caret line=\"33\" column=\"0\" lean-forward=\"false\" selection-start-line=\"33\" selection-start-column=\"0\" selection-end-line=\"33\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"FindInProjectRecents\">\n    <findStrings>\n      <find>&quot;Aww</find>\n      <find>&quot;Awe</find>\n      <find>&quot;Aw</find>\n      <find>&quot;A</find>\n      <find>&quot;</find>\n      <find>@Awe</find>\n      <find>@Aw</find>\n      <find>@A</find>\n      <find>@</find>\n      <find>A</find>\n      <find>Awesome</find>\n      <find>S</find>\n      <find>Shi</find>\n      <find>Ship</find>\n      <find>Shipw</find>\n      <find>Shipwre</find>\n      <find>Shipwreck</find>\n      <find>hibernate</find>\n      <find>sessui</find>\n      <find>sessu</find>\n      <find>sess</find>\n      <find>sessi</find>\n      <find>sessio</find>\n      <find>session</find>\n      <find>s</find>\n      <find>c</find>\n      <find>create</find>\n      <find>medicine</find>\n      <find>Medicine</find>\n      <find>wrecks</find>\n    </findStrings>\n    <replaceStrings>\n      <replace />\n      <replace>medicine</replace>\n      <replace>Medicine List</replace>\n      <replace>Medicine</replace>\n    </replaceStrings>\n    <dirStrings>\n      <dir>C:\\Users\\Karol\\IdeaProjects\\PharmacyBoot</dir>\n      <dir>C:\\Users\\Karol\\IdeaProjects\\PharmacyBoot\\src\\main\\resources\\public\\lib\\bootstrap</dir>\n    </dirStrings>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GradleLocalSettings\">\n    <option name=\"externalProjectsViewState\">\n      <projects_view />\n    </option>\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/App.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/public/index.html\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/public/js/app.js\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/public/css/style.css\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/public/js/nav-controller.js\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/public/views/home.html\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/application-test.properties\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/application-prod.properties\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/config/PersistenceConfiguration.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/db/migration/V2_create_medicine.sql\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/db.sql\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/domain/Medicine.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/model/Product.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/model/Medicine.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/model/Med.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/repository/MedicineRepository.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineStub.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/application.properties\" />\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\n        <option value=\"$PROJECT_DIR$/src/main/resources/public/js/controllers.js\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java\" />\n        <option value=\"$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"JsBuildToolGruntFileManager\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsBuildToolPackageJson\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsGulpfileManager\">\n    <detection-done>true</detection-done>\n    <sorting>DEFINITION_ORDER</sorting>\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"importingSettings\">\n      <MavenImportingSettings>\n        <option name=\"importAutomatically\" value=\"true\" />\n      </MavenImportingSettings>\n    </option>\n  </component>\n  <component name=\"ProjectFrameBounds\">\n    <option name=\"x\" value=\"-7\" />\n    <option name=\"width\" value=\"1294\" />\n    <option name=\"height\" value=\"1087\" />\n  </component>\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectView\">\n    <navigator currentView=\"ProjectPane\" proportions=\"\" version=\"1\">\n      <flattenPackages />\n      <showMembers />\n      <showModules />\n      <showLibraryContents />\n      <hideEmptyPackages />\n      <abbreviatePackageNames />\n      <autoscrollToSource />\n      <autoscrollFromSource />\n      <sortByType />\n      <manualOrder />\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"Scope\" />\n      <pane id=\"PackagesPane\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"boot\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"boot\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"controller\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"boot\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"model\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"boot\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"repository\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"resources\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"resources\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"public\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"resources\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"public\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"js\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"MSI-Pharmacy-System\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"MSI-Pharmacy-System\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"target\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n      <pane id=\"AndroidView\" />\n      <pane id=\"Scratches\" />\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"Downloaded.Files.Path.Enabled\" value=\"false\" />\n    <property name=\"Repository.Attach.JavaDocs\" value=\"false\" />\n    <property name=\"Repository.Attach.Sources\" value=\"false\" />\n    <property name=\"project.structure.last.edited\" value=\"Project\" />\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n    <property name=\"SearchEverywhereHistoryKey\" value=\"sql&#9;PSI&#9;JAVA://org.hibernate.JDBCException#sql&#10;context&#9;null&#9;null&#10;updateSh&#9;null&#9;null\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\n    <property name=\"com.intellij.database.dataSource.DataSourceTemplate\" value=\"MySQL&#10;H2\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"RequestMappingsPanelWidth0\" value=\"75\" />\n    <property name=\"RequestMappingsPanelOrder0\" value=\"0\" />\n    <property name=\"RequestMappingsPanelWidth1\" value=\"75\" />\n    <property name=\"RequestMappingsPanelOrder1\" value=\"1\" />\n    <property name=\"RequestMappingsPanelWidth2\" value=\"75\" />\n    <property name=\"RequestMappingsPanelOrder2\" value=\"2\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\Karol\\IdeaProjects\\PharmacyBoot\\src\\main\\resources\\db\\migration\" />\n      <recent name=\"C:\\Users\\Karol\\IdeaProjects\\PharmacyBoot\\src\\main\\resources\\db\\migration\\migration\" />\n    </key>\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\n      <recent name=\"com.boot.controller\" />\n    </key>\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\Karol\\IdeaProjects\\PharmacyBoot\\src\\main\\java\\com\\boot\\model\" />\n      <recent name=\"C:\\Users\\Karol\\IdeaProjects\\PharmacyBoot\\src\\main\\resources\" />\n    </key>\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"Applet\" factoryName=\"Applet\">\n      <option name=\"HTML_USED\" value=\"false\" />\n      <option name=\"WIDTH\" value=\"400\" />\n      <option name=\"HEIGHT\" value=\"300\" />\n      <option name=\"POLICY_FILE\" value=\"$APPLICATION_HOME_DIR$/bin/appletviewer.policy\" />\n      <module />\n    </configuration>\n    <configuration default=\"true\" type=\"Application\" factoryName=\"Application\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"\" />\n      <envs />\n    </configuration>\n    <configuration default=\"true\" type=\"GrailsRunConfigurationType\" factoryName=\"Grails\">\n      <setting name=\"vmparams\" value=\"\" />\n      <setting name=\"cmdLine\" value=\"run-app\" />\n      <setting name=\"passParentEnv\" value=\"true\" />\n      <setting name=\"launchBrowser\" value=\"true\" />\n      <setting name=\"launchBrowserUrl\" value=\"\" />\n      <setting name=\"depsClasspath\" value=\"false\" />\n    </configuration>\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$MODULE_DIR$\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <envs />\n      <patterns />\n    </configuration>\n    <configuration default=\"true\" type=\"Remote\" factoryName=\"Remote\">\n      <option name=\"USE_SOCKET_TRANSPORT\" value=\"true\" />\n      <option name=\"SERVER_MODE\" value=\"false\" />\n      <option name=\"SHMEM_ADDRESS\" value=\"javadebug\" />\n      <option name=\"HOST\" value=\"localhost\" />\n      <option name=\"PORT\" value=\"5005\" />\n    </configuration>\n    <configuration name=\"App\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.boot.App\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <module name=\"PharmacyBoot\" />\n      <envs />\n    </configuration>\n    <configuration default=\"true\" type=\"TestNG\" factoryName=\"TestNG\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"SUITE_NAME\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"GROUP_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$MODULE_DIR$\" />\n      <option name=\"OUTPUT_DIRECTORY\" />\n      <option name=\"ANNOTATION_TYPE\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <option name=\"USE_DEFAULT_REPORTERS\" value=\"false\" />\n      <option name=\"PROPERTIES_FILE\" />\n      <envs />\n      <properties />\n      <listeners />\n    </configuration>\n    <configuration default=\"true\" type=\"#org.jetbrains.idea.devkit.run.PluginConfigurationType\" factoryName=\"Plugin\">\n      <module name=\"\" />\n      <option name=\"VM_PARAMETERS\" value=\"-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <predefined_log_file id=\"idea.log\" enabled=\"true\" />\n    </configuration>\n    <configuration default=\"true\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\">\n      <module name=\"\" />\n      <option name=\"DEPLOY\" value=\"true\" />\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\n      <option name=\"MODE\" value=\"default_activity\" />\n      <option name=\"TARGET_SELECTION_MODE\" value=\"SHOW_DIALOG\" />\n      <option name=\"PREFERRED_AVD\" value=\"\" />\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\n      <option name=\"SKIP_NOOP_APK_INSTALLATIONS\" value=\"true\" />\n      <option name=\"FORCE_STOP_RUNNING_APP\" value=\"true\" />\n      <option name=\"DEBUGGER_TYPE\" value=\"Java\" />\n      <option name=\"USE_LAST_SELECTED_DEVICE\" value=\"false\" />\n      <option name=\"PREFERRED_AVD\" value=\"\" />\n      <Java />\n      <Profilers>\n        <option name=\"ENABLE_ADVANCED_PROFILING\" value=\"true\" />\n        <option name=\"GAPID_ENABLED\" value=\"false\" />\n        <option name=\"GAPID_DISABLE_PCS\" value=\"false\" />\n        <option name=\"SUPPORT_LIB_ENABLED\" value=\"true\" />\n        <option name=\"INSTRUMENTATION_ENABLED\" value=\"true\" />\n      </Profilers>\n      <option name=\"DEEP_LINK\" value=\"\" />\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"AndroidTestRunConfigurationType\" factoryName=\"Android Tests\">\n      <module name=\"\" />\n      <option name=\"TESTING_TYPE\" value=\"0\" />\n      <option name=\"INSTRUMENTATION_RUNNER_CLASS\" value=\"\" />\n      <option name=\"METHOD_NAME\" value=\"\" />\n      <option name=\"CLASS_NAME\" value=\"\" />\n      <option name=\"PACKAGE_NAME\" value=\"\" />\n      <option name=\"EXTRA_OPTIONS\" value=\"\" />\n      <option name=\"TARGET_SELECTION_MODE\" value=\"SHOW_DIALOG\" />\n      <option name=\"PREFERRED_AVD\" value=\"\" />\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\n      <option name=\"SKIP_NOOP_APK_INSTALLATIONS\" value=\"true\" />\n      <option name=\"FORCE_STOP_RUNNING_APP\" value=\"true\" />\n      <option name=\"DEBUGGER_TYPE\" value=\"Java\" />\n      <option name=\"USE_LAST_SELECTED_DEVICE\" value=\"false\" />\n      <option name=\"PREFERRED_AVD\" value=\"\" />\n      <Java />\n      <Profilers>\n        <option name=\"ENABLE_ADVANCED_PROFILING\" value=\"true\" />\n        <option name=\"GAPID_ENABLED\" value=\"false\" />\n        <option name=\"GAPID_DISABLE_PCS\" value=\"false\" />\n        <option name=\"SUPPORT_LIB_ENABLED\" value=\"true\" />\n        <option name=\"INSTRUMENTATION_ENABLED\" value=\"true\" />\n      </Profilers>\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"arquillianRunConfiguration\">\n        <value>\n          <option name=\"containerStateName\" value=\"\" />\n        </value>\n      </option>\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <envs />\n      <patterns />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"ArquillianTestNG\" factoryName=\"\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"arquillianRunConfiguration\">\n        <value>\n          <option name=\"containerStateName\" value=\"\" />\n        </value>\n      </option>\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"SUITE_NAME\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"GROUP_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" />\n      <option name=\"OUTPUT_DIRECTORY\" />\n      <option name=\"ANNOTATION_TYPE\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <option name=\"USE_DEFAULT_REPORTERS\" value=\"false\" />\n      <option name=\"PROPERTIES_FILE\" />\n      <envs />\n      <properties />\n      <listeners />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"Cold Fusion runner description\" factoryName=\"Cold Fusion\" custom_browser=\"\" web_path=\"\">\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"CucumberJavaRunConfigurationType\" factoryName=\"Cucumber java\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"myFilePath\" />\n      <option name=\"GLUE\" />\n      <option name=\"myNameFilter\" />\n      <option name=\"myGeneratedName\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"FlashRunConfigurationType\" factoryName=\"Flash App\">\n      <option name=\"BCName\" value=\"\" />\n      <option name=\"IOSSimulatorSdkPath\" value=\"\" />\n      <option name=\"adlOptions\" value=\"\" />\n      <option name=\"airProgramParameters\" value=\"\" />\n      <option name=\"appDescriptorForEmulator\" value=\"Android\" />\n      <option name=\"debugTransport\" value=\"USB\" />\n      <option name=\"debuggerSdkRaw\" value=\"BC SDK\" />\n      <option name=\"emulator\" value=\"NexusOne\" />\n      <option name=\"emulatorAdlOptions\" value=\"\" />\n      <option name=\"fastPackaging\" value=\"true\" />\n      <option name=\"fullScreenHeight\" value=\"0\" />\n      <option name=\"fullScreenWidth\" value=\"0\" />\n      <option name=\"launchUrl\" value=\"false\" />\n      <option name=\"launcherParameters\">\n        <LauncherParameters>\n          <option name=\"browser\" value=\"a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8\" />\n          <option name=\"launcherType\" value=\"OSDefault\" />\n          <option name=\"newPlayerInstance\" value=\"false\" />\n          <option name=\"playerPath\" value=\"FlashPlayerDebugger.exe\" />\n        </LauncherParameters>\n      </option>\n      <option name=\"mobileRunTarget\" value=\"Emulator\" />\n      <option name=\"moduleName\" value=\"\" />\n      <option name=\"overriddenMainClass\" value=\"\" />\n      <option name=\"overriddenOutputFileName\" value=\"\" />\n      <option name=\"overrideMainClass\" value=\"false\" />\n      <option name=\"runTrusted\" value=\"true\" />\n      <option name=\"screenDpi\" value=\"0\" />\n      <option name=\"screenHeight\" value=\"0\" />\n      <option name=\"screenWidth\" value=\"0\" />\n      <option name=\"url\" value=\"http://\" />\n      <option name=\"usbDebugPort\" value=\"7936\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"FlexUnitRunConfigurationType\" factoryName=\"FlexUnit\" appDescriptorForEmulator=\"Android\" class_name=\"\" emulatorAdlOptions=\"\" method_name=\"\" package_name=\"\" scope=\"Class\">\n      <option name=\"BCName\" value=\"\" />\n      <option name=\"launcherParameters\">\n        <LauncherParameters>\n          <option name=\"browser\" value=\"a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8\" />\n          <option name=\"launcherType\" value=\"OSDefault\" />\n          <option name=\"newPlayerInstance\" value=\"false\" />\n          <option name=\"playerPath\" value=\"FlashPlayerDebugger.exe\" />\n        </LauncherParameters>\n      </option>\n      <option name=\"moduleName\" value=\"\" />\n      <option name=\"trusted\" value=\"true\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list />\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"JarApplication\" factoryName=\"JAR Application\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"Java Scratch\" factoryName=\"Java Scratch\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"SCRATCH_FILE_ID\" value=\"0\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"JavaScriptTestRunnerJest\" factoryName=\"Jest\">\n      <node-interpreter value=\"project\" />\n      <working-dir value=\"\" />\n      <envs />\n      <scope-kind value=\"ALL\" />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"JavaScriptTestRunnerProtractor\" factoryName=\"Protractor\">\n      <config-file value=\"\" />\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"JavascriptDebugType\" factoryName=\"JavaScript Debug\">\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"JetRunConfigurationType\" factoryName=\"Kotlin\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"PharmacyBoot\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\" factoryName=\"Kotlin script\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"filePath\" />\n      <option name=\"vmParameters\" />\n      <option name=\"alternativeJrePath\" />\n      <option name=\"programParameters\" />\n      <option name=\"passParentEnvs\" value=\"true\" />\n      <option name=\"workingDirectory\" />\n      <option name=\"isAlternativeJrePathEnabled\" value=\"false\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"js.build_tools.npm\" factoryName=\"npm\">\n      <command value=\"run\" />\n      <scripts />\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"osgi.bnd.run\" factoryName=\"Run Launcher\">\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"osgi.bnd.run\" factoryName=\"Test Launcher (JUnit)\">\n      <method />\n    </configuration>\n    <configuration default=\"true\" type=\"js.build_tools.gulp\" factoryName=\"Gulp.js\">\n      <node-interpreter>project</node-interpreter>\n      <node-options />\n      <gulpfile />\n      <tasks />\n      <arguments />\n      <envs />\n    </configuration>\n  </component>\n  <component name=\"ShelveChangesManager\" show_recycled=\"false\">\n    <option name=\"remove_strategy\" value=\"false\" />\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"9e72c3f1-daf7-4c4a-b931-66fd2e762ed8\" name=\"Default\" comment=\"\" />\n      <created>1516030562403</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1516030562403</updated>\n      <workItem from=\"1516030567504\" duration=\"3907000\" />\n      <workItem from=\"1516097975372\" duration=\"1031000\" />\n      <workItem from=\"1516099206469\" duration=\"15900000\" />\n      <workItem from=\"1516177739018\" duration=\"3123000\" />\n      <workItem from=\"1516181011284\" duration=\"746000\" />\n      <workItem from=\"1516462904370\" duration=\"10700000\" />\n      <workItem from=\"1516664074391\" duration=\"12000\" />\n      <workItem from=\"1516699662757\" duration=\"616000\" />\n      <workItem from=\"1516708002748\" duration=\"997000\" />\n      <workItem from=\"1516714487243\" duration=\"256000\" />\n      <workItem from=\"1516914327842\" duration=\"127000\" />\n      <workItem from=\"1516964576678\" duration=\"12617000\" />\n      <workItem from=\"1516992143082\" duration=\"9760000\" />\n      <workItem from=\"1517090613300\" duration=\"99000\" />\n      <workItem from=\"1517245074592\" duration=\"650000\" />\n      <workItem from=\"1517245757454\" duration=\"232000\" />\n      <workItem from=\"1517246328656\" duration=\"373000\" />\n      <workItem from=\"1517246890169\" duration=\"1267000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"First commit.&#10;Fundamental views done.&#10;Fundamental Controllers and Models done.&#10;Time for sth more.\">\n      <created>1516114230374</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1516114230374</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Some DB done on H2.&#10;Controllers almost done too\">\n      <created>1516492495539</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1516492495539</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"62413000\" />\n  </component>\n  <component name=\"TodoView\">\n    <todo-panel id=\"selected-file\">\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n    <todo-panel id=\"all\">\n      <are-packages-shown value=\"true\" />\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-7\" y=\"0\" width=\"1294\" height=\"1087\" extended-state=\"0\" />\n    <editor active=\"true\" />\n    <layout>\n      <window_info id=\"Palette\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Event Log\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"6\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Maven Projects\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"4\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Capture Tool\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Designer\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Database\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4671875\" sideWeight=\"0.5\" order=\"6\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Structure\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Ant Build\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"UI Designer\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Debug\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.38945234\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"TODO\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.329653\" sideWeight=\"0.5\" order=\"5\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Messages\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.22008114\" sideWeight=\"0.5\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Palette&#9;\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Image Layers\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Java Enterprise\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"6\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Capture Analysis\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"8\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Version Control\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"8\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Run\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.7809077\" sideWeight=\"0.5\" order=\"11\" side_tool=\"false\" content_ui=\"tabs\" x=\"3\" y=\"436\" width=\"2554\" height=\"167\" />\n      <window_info id=\"Spring\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"10\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Terminal\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"9\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Project\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" show_stripe_button=\"true\" weight=\"0.21909232\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Bean Validation\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"10\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Web\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Theme Preview\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"9\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Favorites\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Cvs\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Nl-Palette\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Message\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Commander\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Properties\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"5\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Hierarchy\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Inspection\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4\" sideWeight=\"0.5\" order=\"4\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Find\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.3286004\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"VcsContentAnnotationSettings\">\n    <option name=\"myLimit\" value=\"2678400000\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"First commit.&#10;Fundamental views done.&#10;Fundamental Controllers and Models done.&#10;Time for sth more.\" />\n    <MESSAGE value=\"Some DB done on H2.&#10;Controllers almost done too\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Some DB done on H2.&#10;Controllers almost done too\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager />\n    <watches-manager />\n  </component>\n  <component name=\"antWorkspaceConfiguration\">\n    <option name=\"IS_AUTOSCROLL_TO_SOURCE\" value=\"false\" />\n    <option name=\"FILTER_TARGETS\" value=\"false\" />\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/model/Medicine.java\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/medicine-add.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/medicine-edit.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"85\">\n          <caret line=\"5\" column=\"0\" lean-forward=\"false\" selection-start-line=\"5\" selection-start-column=\"0\" selection-end-line=\"5\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/index.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"255\">\n          <caret line=\"15\" column=\"73\" lean-forward=\"false\" selection-start-line=\"15\" selection-start-column=\"73\" selection-end-line=\"15\" selection-end-column=\"73\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/medicine-view.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"306\">\n          <caret line=\"18\" column=\"10\" lean-forward=\"true\" selection-start-line=\"18\" selection-start-column=\"10\" selection-end-line=\"18\" selection-end-column=\"10\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/images/shipwreck.jpg\">\n      <provider selected=\"true\" editor-type-id=\"images\">\n        <state />\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"357\">\n          <caret line=\"21\" column=\"26\" lean-forward=\"false\" selection-start-line=\"21\" selection-start-column=\"26\" selection-end-line=\"21\" selection-end-column=\"26\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/pom.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/pom.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/css/style.min.css\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/_form.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-510\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/medicine-edit.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"85\">\n          <caret line=\"5\" column=\"0\" lean-forward=\"false\" selection-start-line=\"5\" selection-start-column=\"0\" selection-end-line=\"5\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/css/style.css\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"238\">\n          <caret line=\"14\" column=\"15\" lean-forward=\"false\" selection-start-line=\"14\" selection-start-column=\"15\" selection-end-line=\"14\" selection-end-column=\"15\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/images/shipwreck.jpg\">\n      <provider selected=\"true\" editor-type-id=\"images\">\n        <state />\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/index.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"255\">\n          <caret line=\"15\" column=\"73\" lean-forward=\"false\" selection-start-line=\"15\" selection-start-column=\"73\" selection-end-line=\"15\" selection-end-column=\"73\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/medicine-view.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"306\">\n          <caret line=\"18\" column=\"10\" lean-forward=\"false\" selection-start-line=\"18\" selection-start-column=\"10\" selection-end-line=\"18\" selection-end-column=\"10\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/home.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"340\">\n          <caret line=\"20\" column=\"41\" lean-forward=\"false\" selection-start-line=\"20\" selection-start-column=\"41\" selection-end-line=\"20\" selection-end-column=\"41\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/views/medicine-add.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/application-test.properties\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/application-prod.properties\" />\n    <entry file=\"file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/db/V2_create_medicine.sql\" />\n    <entry file=\"file://$PROJECT_DIR$/.idea/dataSources.xml\" />\n    <entry file=\"file://$PROJECT_DIR$/.idea/dataSources.local.xml\" />\n    <entry file=\"jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.class\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/applicationEarly.properties\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/config/PersistenceConfiguration.java\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/db/migration/V2_create_medicine.sql\" />\n    <entry file=\"file://$PROJECT_DIR$/.idea/workspace.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-867\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.9.Final/hibernate-core-5.0.9.Final.jar!/org/hibernate/JDBCException.class\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/domain/Medicine.java\" />\n    <entry file=\"file://$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/.idea/misc.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/.idea/encodings.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/.idea/compiler.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/db.sql\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/lib/angular/js/angular.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"923\">\n          <caret line=\"10076\" column=\"92\" lean-forward=\"false\" selection-start-line=\"10076\" selection-start-column=\"92\" selection-end-line=\"10076\" selection-end-column=\"92\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/model/Medicine.java\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineStub.java\" />\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/application.properties\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"374\">\n          <caret line=\"22\" column=\"36\" lean-forward=\"false\" selection-start-line=\"22\" selection-start-column=\"36\" selection-end-line=\"22\" selection-end-column=\"36\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/pom.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"799\">\n          <caret line=\"47\" column=\"17\" lean-forward=\"false\" selection-start-line=\"47\" selection-start-column=\"17\" selection-end-line=\"47\" selection-end-column=\"17\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/controllers.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"119\">\n          <caret line=\"7\" column=\"31\" lean-forward=\"false\" selection-start-line=\"7\" selection-start-column=\"31\" selection-end-line=\"7\" selection-end-column=\"31\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/app.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"436\">\n          <caret line=\"61\" column=\"48\" lean-forward=\"false\" selection-start-line=\"61\" selection-start-column=\"40\" selection-end-line=\"61\" selection-end-column=\"48\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/services.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/public/js/nav-controller.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"374\">\n          <caret line=\"22\" column=\"0\" lean-forward=\"true\" selection-start-line=\"22\" selection-start-column=\"0\" selection-end-line=\"22\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/App.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"153\">\n          <caret line=\"10\" column=\"13\" lean-forward=\"false\" selection-start-line=\"10\" selection-start-column=\"13\" selection-end-line=\"10\" selection-end-column=\"13\" />\n          <folding>\n            <element signature=\"e#259#260#0\" expanded=\"true\" />\n            <element signature=\"e#313#314#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/model/Med.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"493\">\n          <caret line=\"33\" column=\"0\" lean-forward=\"false\" selection-start-line=\"33\" selection-start-column=\"0\" selection-end-line=\"33\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"646\">\n          <caret line=\"53\" column=\"32\" lean-forward=\"false\" selection-start-line=\"53\" selection-start-column=\"32\" selection-end-line=\"53\" selection-end-column=\"32\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/repository/MedicineRepository.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"119\">\n          <caret line=\"8\" column=\"17\" lean-forward=\"false\" selection-start-line=\"8\" selection-start-column=\"17\" selection-end-line=\"8\" selection-end-column=\"17\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"357\">\n          <caret line=\"23\" column=\"0\" lean-forward=\"true\" selection-start-line=\"23\" selection-start-column=\"0\" selection-end-line=\"23\" selection-end-column=\"0\" />\n          <folding>\n            <element signature=\"e#516#517#0\" expanded=\"true\" />\n            <element signature=\"e#546#547#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"ArtifactsStructureConfigurable.UI\">\n        <settings>\n          <artifact-editor />\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"FacetStructureConfigurable.UI\">\n        <settings>\n          <last-edited>Spring</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"GlobalLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"JdkListConfigurable.UI\">\n        <settings>\n          <last-edited>1.8</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ModuleStructureConfigurable.UI\">\n        <settings>\n          <last-edited>PharmacyBoot</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n                <option value=\"0.6\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectJDKs.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectLibrariesConfigurable.UI\">\n        <settings>\n          <last-edited>Maven: junit:junit:3.8.1</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision c8e3aeb165cbe583fb3a85675140eaa1de148ca0)
++++ .idea/workspace.xml	(date 1517259418828)
+@@ -2,10 +2,14 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="9e72c3f1-daf7-4c4a-b931-66fd2e762ed8" name="Default" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/boot/controller/MedicineController.class" afterPath="$PROJECT_DIR$/target/classes/com/boot/controller/MedicineController.class" />
++      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
++      <change beforePath="$PROJECT_DIR$/target/classes/com/boot/controller/MedicineController.class" afterPath="" />
++      <change beforePath="$PROJECT_DIR$/target/classes/com/boot/model/Med.class" afterPath="$PROJECT_DIR$/target/classes/com/boot/model/Med.class" />
++      <change beforePath="$PROJECT_DIR$/target/classes/com/boot/repository/MedicineRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/boot/repository/MedicineRepository.class" />
++      <change beforePath="$PROJECT_DIR$/target/classes/public/views/_form.html" afterPath="$PROJECT_DIR$/target/classes/public/views/_form.html" />
++      <change beforePath="$PROJECT_DIR$/target/classes/public/views/medicine-view.html" afterPath="$PROJECT_DIR$/target/classes/public/views/medicine-view.html" />
++      <change beforePath="$PROJECT_DIR$/target/classes/public/views/medicines.html" afterPath="$PROJECT_DIR$/target/classes/public/views/medicines.html" />
+     </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <ignored path="$PROJECT_DIR$/target/" />
+@@ -26,114 +30,111 @@
+     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+   </component>
+   <component name="FileEditorManager">
+-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file leaf-file-name="MedicineController.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="646">
+-              <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/app.js">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="436">
+-              <caret line="61" column="48" lean-forward="false" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="48" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="357">
+-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+-              <folding>
+-                <element signature="e#516#517#0" expanded="true" />
+-                <element signature="e#546#547#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/pom.xml">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="799">
+-              <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="MedicineRepository.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/repository/MedicineRepository.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="119">
+-              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="nav-controller.js" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/nav-controller.js">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="374">
+-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/services.js">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="0">
+-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/controllers.js">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="119">
+-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/App.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="153">
+-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+-              <folding>
+-                <element signature="e#259#260#0" expanded="true" />
+-                <element signature="e#313#314#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="Med.java" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/model/Med.java">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="493">
+-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-    </leaf>
++    <splitter split-orientation="horizontal" split-proportion="0.22127052">
++      <split-first>
++        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
++          <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
++            <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="391">
++                  <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++        </leaf>
++      </split-first>
++      <split-second>
++        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
++          <file leaf-file-name="MedicineController.java" pinned="false" current-in-tab="true">
++            <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="816">
++                  <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
++                  <folding>
++                    <element signature="e#721#722#0" expanded="true" />
++                    <element signature="e#772#773#0" expanded="true" />
++                    <element signature="e#1896#1897#0" expanded="true" />
++                    <element signature="e#1959#1960#0" expanded="true" />
++                  </folding>
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/controllers.js">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="408">
++                  <caret line="24" column="85" lean-forward="true" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file leaf-file-name="Med.java" pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/model/Med.java">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="204">
++                  <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file leaf-file-name="MedicineRepository.java" pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/repository/MedicineRepository.java">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="136">
++                  <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/home.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="340">
++                  <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file leaf-file-name="medicine-add.html" pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-add.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="0">
++                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file leaf-file-name="medicine-view.html" pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-view.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="289">
++                  <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file leaf-file-name="medicines.html" pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicines.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="306">
++                  <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
++                  <folding />
++                </state>
++              </provider>
++            </entry>
++          </file>
++        </leaf>
++      </split-second>
++    </splitter>
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -145,9 +146,6 @@
+   </component>
+   <component name="FindInProjectRecents">
+     <findStrings>
+-      <find>&quot;Aww</find>
+-      <find>&quot;Awe</find>
+-      <find>&quot;Aw</find>
+       <find>&quot;A</find>
+       <find>&quot;</find>
+       <find>@Awe</find>
+@@ -175,6 +173,9 @@
+       <find>medicine</find>
+       <find>Medicine</find>
+       <find>wrecks</find>
++      <find>latitude</find>
++      <find>depth</find>
++      <find>yearD</find>
+     </findStrings>
+     <replaceStrings>
+       <replace />
+@@ -212,14 +213,17 @@
+         <option value="$PROJECT_DIR$/src/main/java/com/boot/domain/Medicine.java" />
+         <option value="$PROJECT_DIR$/src/main/java/com/boot/model/Product.java" />
+         <option value="$PROJECT_DIR$/src/main/java/com/boot/model/Medicine.java" />
++        <option value="$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineStub.java" />
++        <option value="$PROJECT_DIR$/pom.xml" />
++        <option value="$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java" />
++        <option value="$PROJECT_DIR$/src/main/resources/public/views/medicine-view.html" />
++        <option value="$PROJECT_DIR$/src/main/resources/public/views/_form.html" />
++        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
++        <option value="$PROJECT_DIR$/src/main/resources/public/views/medicines.html" />
+         <option value="$PROJECT_DIR$/src/main/java/com/boot/model/Med.java" />
+         <option value="$PROJECT_DIR$/src/main/java/com/boot/repository/MedicineRepository.java" />
+-        <option value="$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineStub.java" />
+-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+-        <option value="$PROJECT_DIR$/pom.xml" />
+         <option value="$PROJECT_DIR$/src/main/resources/public/js/controllers.js" />
+         <option value="$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java" />
+-        <option value="$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java" />
+       </list>
+     </option>
+   </component>
+@@ -236,10 +240,11 @@
+       </MavenImportingSettings>
+     </option>
+   </component>
+-  <component name="ProjectFrameBounds">
+-    <option name="x" value="-7" />
++  <component name="ProjectFrameBounds" extendedState="6">
++    <option name="x" value="660" />
++    <option name="y" value="70" />
+     <option name="width" value="1294" />
+-    <option name="height" value="1087" />
++    <option name="height" value="963" />
+   </component>
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectView">
+@@ -257,8 +262,8 @@
+       <foldersAlwaysOnTop value="true" />
+     </navigator>
+     <panes>
++      <pane id="Scratches" />
+       <pane id="Scope" />
+-      <pane id="PackagesPane" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -346,6 +351,34 @@
+             <path>
+               <item name="MSI-Pharmacy-System" type="b2602c69:ProjectViewProjectNode" />
+               <item name="MSI-Pharmacy-System" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="main" type="462c0819:PsiDirectoryNode" />
++              <item name="resources" type="462c0819:PsiDirectoryNode" />
++              <item name="public" type="462c0819:PsiDirectoryNode" />
++              <item name="lib" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="MSI-Pharmacy-System" type="b2602c69:ProjectViewProjectNode" />
++              <item name="MSI-Pharmacy-System" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="main" type="462c0819:PsiDirectoryNode" />
++              <item name="resources" type="462c0819:PsiDirectoryNode" />
++              <item name="public" type="462c0819:PsiDirectoryNode" />
++              <item name="lib" type="462c0819:PsiDirectoryNode" />
++              <item name="html5shiv" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="MSI-Pharmacy-System" type="b2602c69:ProjectViewProjectNode" />
++              <item name="MSI-Pharmacy-System" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="main" type="462c0819:PsiDirectoryNode" />
++              <item name="resources" type="462c0819:PsiDirectoryNode" />
++              <item name="public" type="462c0819:PsiDirectoryNode" />
++              <item name="views" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="MSI-Pharmacy-System" type="b2602c69:ProjectViewProjectNode" />
++              <item name="MSI-Pharmacy-System" type="462c0819:PsiDirectoryNode" />
+               <item name="target" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+@@ -353,7 +386,7 @@
+         </subPane>
+       </pane>
+       <pane id="AndroidView" />
+-      <pane id="Scratches" />
++      <pane id="PackagesPane" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+@@ -368,7 +401,7 @@
+     <property name="SearchEverywhereHistoryKey" value="sql&#9;PSI&#9;JAVA://org.hibernate.JDBCException#sql&#10;context&#9;null&#9;null&#10;updateSh&#9;null&#9;null" />
+     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;H2" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2/MSI-Pharmacy-System" />
+     <property name="RequestMappingsPanelWidth0" value="75" />
+     <property name="RequestMappingsPanelOrder0" value="0" />
+     <property name="RequestMappingsPanelWidth1" value="75" />
+@@ -819,7 +852,8 @@
+       <workItem from="1517245074592" duration="650000" />
+       <workItem from="1517245757454" duration="232000" />
+       <workItem from="1517246328656" duration="373000" />
+-      <workItem from="1517246890169" duration="1267000" />
++      <workItem from="1517246890169" duration="6191000" />
++      <workItem from="1517253855644" duration="5555000" />
+     </task>
+     <task id="LOCAL-00001" summary="First commit.&#10;Fundamental views done.&#10;Fundamental Controllers and Models done.&#10;Time for sth more.">
+       <created>1516114230374</created>
+@@ -835,11 +869,18 @@
+       <option name="project" value="LOCAL" />
+       <updated>1516492495539</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Data model done better.&#10;It starts to be ok">
++      <created>1517259392964</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1517259392965</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="62413000" />
++    <option name="totallyTimeSpent" value="72892000" />
+   </component>
+   <component name="TodoView">
+     <todo-panel id="selected-file">
+@@ -851,7 +892,7 @@
+     </todo-panel>
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="-7" y="0" width="1294" height="1087" extended-state="0" />
++    <frame x="-8" y="-8" width="2576" height="1096" extended-state="6" />
+     <editor active="true" />
+     <layout>
+       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+@@ -863,20 +904,21 @@
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38945234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
++      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3886063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22008114" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
++      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2197355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7809077" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="3" y="436" width="2554" height="167" />
++      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2140625" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="3" y="436" width="2554" height="167" />
+       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21909232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
++      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20429687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
++      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.021363175" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+@@ -886,7 +928,6 @@
+       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286004" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+     </layout>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -898,7 +939,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="First commit.&#10;Fundamental views done.&#10;Fundamental Controllers and Models done.&#10;Time for sth more." />
+     <MESSAGE value="Some DB done on H2.&#10;Controllers almost done too" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Some DB done on H2.&#10;Controllers almost done too" />
++    <MESSAGE value="Data model done better.&#10;It starts to be ok" />
++    <option name="LAST_COMMIT_MESSAGE" value="Data model done better.&#10;It starts to be ok" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager />
+@@ -909,8 +951,65 @@
+     <option name="FILTER_TARGETS" value="false" />
+   </component>
+   <component name="editorHistoryManager">
++    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="-867">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.9.Final/hibernate-core-5.0.9.Final.jar!/org/hibernate/JDBCException.class" />
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/domain/Medicine.java" />
++    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/resources/db.sql" />
+     <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/model/Medicine.java" />
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-add.html">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineStub.java" />
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="408">
++          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
++          <folding>
++            <element signature="e#516#517#0" expanded="false" />
++            <element signature="e#546#547#0" expanded="false" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/html5shiv/html5shiv.min.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+@@ -931,200 +1030,225 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-view.html">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/nav-controller.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="306">
+-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
++        <state relative-caret-position="374">
++          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/shipwreck.jpg">
+-      <provider selected="true" editor-type-id="images">
+-        <state />
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/services.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/angular/js/angular.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="357">
+-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
++        <state relative-caret-position="-257598">
++          <caret line="10076" column="92" lean-forward="false" selection-start-line="10076" selection-start-column="92" selection-end-line="10076" selection-end-column="92" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/pom.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/angular/css/angular-csp.css">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/pom.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/angular/js/angular-resource.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/style.min.css">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/angular/js/angular-resource.min.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/_form.html">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/angular/js/angular-resource.min.js.map">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-510">
++        <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+         </state>
++      </provider>
++      <provider editor-type-id="sourcemapFileViewerProvider">
++        <state />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-edit.html">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/assets/js/ie10-viewport-bug-workaround.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="85">
+-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/style.css">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/bootstrap/css/bootstrap.css.map">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="238">
+-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
++        <state relative-caret-position="-70871">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+         </state>
+       </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/images/shipwreck.jpg">
+-      <provider selected="true" editor-type-id="images">
++      <provider editor-type-id="sourcemapFileViewerProvider">
+         <state />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/index.html">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/bootstrap/css/bootstrap.min.css">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="255">
+-          <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-view.html">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/bootstrap/css/bootstrap.min.css.map">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="306">
+-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+         </state>
++      </provider>
++      <provider editor-type-id="sourcemapFileViewerProvider">
++        <state />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/home.html">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/bootstrap/css/bootstrap.css">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="340">
+-          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
++        <state relative-caret-position="-109642">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-add.html">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/bootstrap/js/bootstrap.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding>
++            <element signature="n#!!doc" expanded="false" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-test.properties" />
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties" />
+-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom" />
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/db/V2_create_medicine.sql" />
+-    <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml" />
+-    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml" />
+-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.class" />
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationEarly.properties" />
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/config/PersistenceConfiguration.java" />
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V2_create_medicine.sql" />
+-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/html5shiv/html5shiv.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-867">
++        <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding>
++            <element signature="n#!!doc" expanded="false" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.9.Final/hibernate-core-5.0.9.Final.jar!/org/hibernate/JDBCException.class" />
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/domain/Medicine.java" />
+-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/html5shiv/html5shiv-printshiv.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding>
++            <element signature="n#!!doc" expanded="false" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/jquery/jquery.min.map">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding />
+         </state>
++      </provider>
++      <provider editor-type-id="sourcemapFileViewerProvider">
++        <state />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/require/require.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding>
++            <element signature="n#!!doc" expanded="false" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/jquery/jquery.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="144687">
++          <caret line="8523" column="8" lean-forward="false" selection-start-line="8523" selection-start-column="8" selection-end-line="8523" selection-end-column="8" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/app.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="935">
++          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="jar://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/1.1.9/mariadb-java-client-1.1.9.jar!/org/mariadb/jdbc/Driver.class">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        <state relative-caret-position="319">
++          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
++    <entry file="jar://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/1.1.9/mariadb-java-client-1.1.9.jar!/org/mariadb/jdbc/internal/mysql/MySQLProtocol.class">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++        <state relative-caret-position="302">
++          <caret line="549" column="0" lean-forward="false" selection-start-line="549" selection-start-column="0" selection-end-line="549" selection-end-column="0" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/db.sql" />
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/lib/angular/js/angular.js">
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/App.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="923">
+-          <caret line="10076" column="92" lean-forward="false" selection-start-line="10076" selection-start-column="92" selection-end-line="10076" selection-end-column="92" />
++        <state relative-caret-position="221">
++          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
++          <folding>
++            <element signature="e#313#314#0" expanded="false" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/model/Medicine.java" />
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineStub.java" />
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
++    <entry file="jar://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/1.1.9/mariadb-java-client-1.1.9.jar!/org/mariadb/jdbc/internal/SQLExceptionMapper.class">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="374">
+-          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
++        <state relative-caret-position="319">
++          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/pom.xml">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="799">
++        <state relative-caret-position="697">
+           <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/controllers.js">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/_form.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="119">
+-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
++        <state relative-caret-position="408">
++          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/app.js">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/home.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="436">
+-          <caret line="61" column="48" lean-forward="false" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="48" />
++        <state relative-caret-position="340">
++          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/services.js">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-add.html">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+@@ -1132,56 +1256,82 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/nav-controller.js">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="374">
+-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
++        <state relative-caret-position="391">
++          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/App.java">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicines.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="153">
+-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+-          <folding>
+-            <element signature="e#259#260#0" expanded="true" />
+-            <element signature="e#313#314#0" expanded="true" />
+-          </folding>
++        <state relative-caret-position="306">
++          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
++          <folding />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/model/Med.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="493">
+-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
++        <state relative-caret-position="204">
++          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java">
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/views/medicine-view.html">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="289">
++          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/controllers.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="646">
+-          <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
++        <state relative-caret-position="408">
++          <caret line="24" column="85" lean-forward="true" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/repository/MedicineRepository.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="119">
+-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
++        <state relative-caret-position="136">
++          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+           <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/HomeController.java">
++    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="312">
++          <caret line="209" column="19" lean-forward="false" selection-start-line="209" selection-start-column="19" selection-end-line="209" selection-end-column="19" />
++          <folding>
++            <element signature="e#8604#8605#0" expanded="true" />
++            <element signature="e#8697#8698#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="136">
++          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/boot/controller/MedicineController.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="357">
+-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
++        <state relative-caret-position="816">
++          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+           <folding>
+-            <element signature="e#516#517#0" expanded="true" />
+-            <element signature="e#546#547#0" expanded="true" />
++            <element signature="e#721#722#0" expanded="true" />
++            <element signature="e#772#773#0" expanded="true" />
++            <element signature="e#1896#1897#0" expanded="true" />
++            <element signature="e#1959#1960#0" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+Index: target/classes/public/views/_form.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><div class=\"form-group\">\n    <label for=\"name\" class=\"col-sm-2 control-label\">Name</label>\n    <div class=\"col-sm-10\">\n        <input type=\"text\" ng-model=\"medicine.name\" class=\"form-control\" id=\"name\" placeholder=\"medicine Name\"/>\n    </div>\n</div>\n<div class=\"form-group\">\n    <label for=\"description\" class=\"col-sm-2 control-label\">Description</label>\n    <div class=\"col-sm-10\">\n        <input type=\"text\" ng-model=\"medicine.description\" class=\"form-control\" id=\"description\" placeholder=\"medicine Description\"/>\n    </div>\n</div>\n<div class=\"form-group\">\n    <label for=\"condition\" class=\"col-sm-2 control-label\">Condition</label>\n    <div class=\"col-sm-10\">\n        <input type=\"text\" ng-model=\"medicine.condition\" class=\"form-control\" id=\"condition\" placeholder=\"medicine Condition\"/>\n    </div>\n</div>\n<div class=\"form-group\">\n    <label for=\"yearDiscovered\" class=\"col-sm-2 control-label\">Year Discovered</label>\n    <div class=\"col-sm-10\">\n        <input type=\"text\" ng-model=\"medicine.yearDiscovered\" class=\"form-control\" id=\"yearDiscovered\" placeholder=\"When was the medicine discovered?\"/>\n    </div>\n</div>\n<div class=\"form-group\">\n    <label for=\"depth\" class=\"col-sm-2 control-label\">Depth of Wreck</label>\n    <div class=\"col-sm-10\">\n        <input type=\"text\" ng-model=\"medicine.depth\" class=\"form-control\" id=\"depth\" placeholder=\"medicine dive depth\"/>\n    </div>\n</div>\n<div class=\"form-group\">\n    <label for=\"latitude\" class=\"col-sm-2 control-label\">Latitude</label>\n    <div class=\"col-sm-10\">\n        <input type=\"text\" ng-model=\"medicine.latitude\" class=\"form-control\" id=\"latitude\" placeholder=\"Latitude\"/>\n    </div>\n</div>\n<div class=\"form-group\">\n    <label for=\"longitude\" class=\"col-sm-2 control-label\">Longitude</label>\n    <div class=\"col-sm-10\">\n        <input type=\"text\" ng-model=\"medicine.longitude\" class=\"form-control\" id=\"longitude\" placeholder=\"Longitude\"/>\n    </div>\n</div>\n<div class=\"form-group\">\n    <div class=\"col-sm-offset-2 col-sm-10\">\n        <input type=\"submit\" class=\"btn btn-primary\" value=\"Save\"/>\n    </div>\n</div>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/classes/public/views/_form.html	(revision c8e3aeb165cbe583fb3a85675140eaa1de148ca0)
++++ target/classes/public/views/_form.html	(date 1517256103460)
+@@ -1,43 +1,43 @@
+ <div class="form-group">
+-    <label for="name" class="col-sm-2 control-label">Name</label>
++    <label for="id" class="col-sm-2 control-label">ID</label>
+     <div class="col-sm-10">
+-        <input type="text" ng-model="medicine.name" class="form-control" id="name" placeholder="medicine Name"/>
++        <input type="text" ng-model="medicine._id" class="form-control" id="id" placeholder="medicine ID"/>
+     </div>
+ </div>
+ <div class="form-group">
+-    <label for="description" class="col-sm-2 control-label">Description</label>
++    <label for="name" class="col-sm-2 control-label">Name</label>
+     <div class="col-sm-10">
+-        <input type="text" ng-model="medicine.description" class="form-control" id="description" placeholder="medicine Description"/>
++        <input type="text" ng-model="medicine.name" class="form-control" id="name" placeholder="medicine name"/>
+     </div>
+ </div>
+ <div class="form-group">
+-    <label for="condition" class="col-sm-2 control-label">Condition</label>
++    <label for="description" class="col-sm-2 control-label">Description</label>
+     <div class="col-sm-10">
+-        <input type="text" ng-model="medicine.condition" class="form-control" id="condition" placeholder="medicine Condition"/>
++        <input type="text" ng-model="medicine.description" class="form-control" id="description" placeholder="medicine description"/>
+     </div>
+ </div>
+ <div class="form-group">
+-    <label for="yearDiscovered" class="col-sm-2 control-label">Year Discovered</label>
++    <label for="composition" class="col-sm-2 control-label">Composition</label>
+     <div class="col-sm-10">
+-        <input type="text" ng-model="medicine.yearDiscovered" class="form-control" id="yearDiscovered" placeholder="When was the medicine discovered?"/>
++        <input type="text" ng-model="medicine.composition" class="form-control" id="composition" placeholder="Composition"/>
+     </div>
+ </div>
+ <div class="form-group">
+-    <label for="depth" class="col-sm-2 control-label">Depth of Wreck</label>
++    <label for="price" class="col-sm-2 control-label">Price</label>
+     <div class="col-sm-10">
+-        <input type="text" ng-model="medicine.depth" class="form-control" id="depth" placeholder="medicine dive depth"/>
++        <input type="text" ng-model="medicine.price" class="form-control" id="price" placeholder="medicine price"/>
+     </div>
+ </div>
+ <div class="form-group">
+-    <label for="latitude" class="col-sm-2 control-label">Latitude</label>
++    <label for="imageURL" class="col-sm-2 control-label">ImageURL</label>
+     <div class="col-sm-10">
+-        <input type="text" ng-model="medicine.latitude" class="form-control" id="latitude" placeholder="Latitude"/>
++        <input type="text" ng-model="medicine.imageUrl" class="form-control" id="imageURL" placeholder="IMG URL"/>
+     </div>
+ </div>
+ <div class="form-group">
+-    <label for="longitude" class="col-sm-2 control-label">Longitude</label>
++    <label for="quantity" class="col-sm-2 control-label">Quantity</label>
+     <div class="col-sm-10">
+-        <input type="text" ng-model="medicine.longitude" class="form-control" id="longitude" placeholder="Longitude"/>
++        <input type="text" ng-model="medicine.quantity" class="form-control" id="quantity" placeholder="quantity"/>
+     </div>
+ </div>
+ <div class="form-group">
+Index: target/classes/public/views/medicine-view.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><div class=\"container pad-top\">\n  <table class=\"table medicinetable\">\n      <tr>\n          <td><h3>Details for {{medicine.name}}</h3></td>\n          <td></td>\n      </tr>\n      <tr>\n          <td>Name</td>\n          <td>{{medicine.name}}</td>\n      </tr>\n      <tr>\n          <td>Description</td>\n          <td>{{medicine.description}}</td>\n      </tr>\n      <tr>\n          <td>Wreck Condition</td>\n          <td>{{medicine.condition}}</td>\n      </tr>\n      <tr>\n          <td>Year Discovered</td>\n          <td>{{medicine.yearDiscovered}}</td>\n      </tr>\n      <tr>\n          <td>Depth of Wreck</td>\n          <td>{{medicine.depth}}</td>\n      </tr>\n      <tr>\n          <td>Location</td>\n          <td>{{medicine.latitude}}, {{medicine.longitude}}</td>\n      </tr>\n  </table>\n  <div>\n      <a class=\"btn btn-primary\" ui-sref=\"editmedicine({id:medicine.id})\">Edit</a>\n  </div>\n</div>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/classes/public/views/medicine-view.html	(revision c8e3aeb165cbe583fb3a85675140eaa1de148ca0)
++++ target/classes/public/views/medicine-view.html	(date 1517256103493)
+@@ -5,6 +5,10 @@
+           <td></td>
+       </tr>
+       <tr>
++          <td>ID</td>
++          <td>{{medicine._id}}</td>
++      </tr>
++      <tr>
+           <td>Name</td>
+           <td>{{medicine.name}}</td>
+       </tr>
+@@ -13,20 +17,20 @@
+           <td>{{medicine.description}}</td>
+       </tr>
+       <tr>
+-          <td>Wreck Condition</td>
+-          <td>{{medicine.condition}}</td>
++          <td>Composition</td>
++          <td>{{medicine.composition}}</td>
+       </tr>
+       <tr>
+-          <td>Year Discovered</td>
+-          <td>{{medicine.yearDiscovered}}</td>
++          <td>Price</td>
++          <td>{{medicine.price}}</td>
+       </tr>
+       <tr>
+-          <td>Depth of Wreck</td>
+-          <td>{{medicine.depth}}</td>
++          <td>Image</td>
++          <td>{{medicine.imageUrl}}</td>
+       </tr>
+       <tr>
+-          <td>Location</td>
+-          <td>{{medicine.latitude}}, {{medicine.longitude}}</td>
++          <td>Quantity</td>
++          <td>{{medicine.quantity}}</td>
+       </tr>
+   </table>
+   <div>
+Index: target/classes/public/views/medicines.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><div class=\"container pad-top\">\n  <a ui-sref=\"newmedicine\" class=\"btn-primary btn-lg nodecoration\">Add New medicine</a>\n  <table class=\"table medicinetable\">\n      <tr>\n          <td><h3>All medicines</h3></td>\n          <td></td>\n      </tr>\n      <tr ng-repeat=\"medicine in medicines\">\n          <td>{{medicine.name}}</td>\n          <td>{{medicine.description}}</td>\n          <td>{{medicine.yearDiscovered}}</td>\n          <td>\n              <a class=\"btn btn-primary\" ui-sref=\"viewmedicine({id:medicine.id})\">View</a>\n              <a class=\"btn btn-danger\"  ng-click=\"deletemedicine(medicine)\">Delete</a>\n          </td>\n      </tr>\n  </table>\n</div>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/classes/public/views/medicines.html	(revision c8e3aeb165cbe583fb3a85675140eaa1de148ca0)
++++ target/classes/public/views/medicines.html	(date 1517256787791)
+@@ -6,9 +6,9 @@
+           <td></td>
+       </tr>
+       <tr ng-repeat="medicine in medicines">
++          <td>{{medicine.id}}</td>
+           <td>{{medicine.name}}</td>
+           <td>{{medicine.description}}</td>
+-          <td>{{medicine.yearDiscovered}}</td>
+           <td>
+               <a class="btn btn-primary" ui-sref="viewmedicine({id:medicine.id})">View</a>
+               <a class="btn btn-danger"  ng-click="deletemedicine(medicine)">Delete</a>
+Index: target/classes/application.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>logging.level.org.springframework.web=DEBUG\n\n# server.port=8080\n\n# ===============================\n# = DATA SOURCE\n# ===============================\n# Set here configurations for the database connection\nspring.datasource.url=jdbc:mariadb://212.182.24.107:3306/PharmacySystemKG\nspring.datasource.username=grupa1\nspring.datasource.password=grupa1\nspring.datasource.driver-class-name=org.mariadb.jdbc.Driver\n# Keep the connection alive if idle for a long time (needed in production)\nspring.datasource.testWhileIdle=true\nspring.datasource.validationQuery=SELECT 1\n# ===============================\n# = JPA / HIBERNATE\n# ===============================\n# Show or not log for each sql query\nspring.jpa.show-sql=true\n# Hibernate ddl auto (create, create-drop, update): with \"create-drop\" the database\n# schema will be automatically created afresh for every start of application\nspring.jpa.hibernate.ddl-auto=update\n# Naming strategy\nspring.jpa.hibernate.naming.implicit-strategy=org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyHbmImpl\nspring.jpa.hibernate.naming.physical-strategy=org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy\n# Allows Hibernate to generate SQL optimized for a particular DBMS\nspring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1250
+===================================================================
+--- target/classes/application.properties	(revision c8e3aeb165cbe583fb3a85675140eaa1de148ca0)
++++ target/classes/application.properties	(date 1517256787816)
+@@ -1,5 +1,6 @@
+ logging.level.org.springframework.web=DEBUG
+ 
++
+ # server.port=8080
+ 
+ # ===============================
+@@ -25,4 +26,4 @@
+ spring.jpa.hibernate.naming.implicit-strategy=org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyHbmImpl
+ spring.jpa.hibernate.naming.physical-strategy=org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy
+ # Allows Hibernate to generate SQL optimized for a particular DBMS
+-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
++spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+\ No newline at end of file

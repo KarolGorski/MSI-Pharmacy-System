@@ -9,26 +9,30 @@ import java.util.Set;
 import com.boot.model.Med;
 
 @Entity
-@Table(name = "StockIns")
+@Table(name = "Stockins")
 public class StockIn {
 
     @GeneratedValue
     @Id
     private Long _id;
-    @OneToMany(mappedBy="_id")
-    private Set<Med> items;
+    // @OneToMany(mappedBy="_id")
+    // private Set<Med> items;
 
     private String fromwhere;
-    private Date date;
+    /*
+        @Column(name = "date", columnDefinition="DATETIME")
+        @Temporal(TemporalType.TIMESTAMP)
+        private Date date;
+        */
     private BigDecimal priceForAll;
 
     public StockIn(){}
 
 
-    public StockIn(Set<Med> items, String from, Date date, BigDecimal priceForAll) {
-        this.items = items;
+    public StockIn( String from, Date date, BigDecimal priceForAll) {
+        //  this.items = items;
         this.fromwhere = from;
-        this.date = date;
+        //this.date = date;
         this.priceForAll = priceForAll;
     }
 
@@ -39,15 +43,15 @@ public class StockIn {
     public void set_id(Long _id) {
         this._id = _id;
     }
+    /*
+        public Set<Med> getItems() {
+            return items;
+        }
 
-    public Set<Med> getItems() {
-        return items;
-    }
-
-    public void setItems(Set<Med> items) {
-        this.items = items;
-    }
-
+        public void setItems(Set<Med> items) {
+            this.items = items;
+        }
+    */
     public String getFrom() {
         return fromwhere;
     }
@@ -55,15 +59,15 @@ public class StockIn {
     public void setFrom(String from) {
         this.fromwhere = from;
     }
+    /*
+        public Date getDate() {
+            return date;
+        }
 
-    public Date getDate() {
-        return date;
-    }
-
-    public void setDate(Date date) {
-        this.date = date;
-    }
-
+        public void setDate(Date date) {
+            this.date = date;
+        }
+    */
     public BigDecimal getPriceForAll() {
         return priceForAll;
     }
